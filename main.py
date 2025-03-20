@@ -2,7 +2,7 @@ import os
 import asyncio
 import discord
 
-token = "1352189060583653386"  # Masukkan token user Anda
+token = "MTM1MjE4OTA2MDU4MzY1MzM4Ng.GxJYuE.mIaNCt5vY8ZZdXsnTIxqHshYhsC1uksigSqVgw"  # Masukkan token user Anda
 replyMessage = 'sell'
 channelId = 733049257648586792  # Ganti dengan ID kanal valid
 send_delay = 7300  # Delay pengiriman pesan (dalam detik)
